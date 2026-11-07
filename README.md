@@ -1,4 +1,22 @@
-# firstgithub_sujin
+# Backend Development
 
+신나는학교 앱 개발 프로젝트 - 백엔드
 
-hello world usesadfaskdfaslkjdfslkkjldkj
+## 프로젝트 소개
+신나는학교 학생 개발팀이 진행하는 앱 개발 프로젝트입니다.
+
+## 담당 영역
+- 백엔드 개발
+- 데이터베이스 설계 및 관리
+- API 개발 및 데이터 연동
+
+## 개발 환경
+- VS Code
+- GitHub
+
+## 진행 상황
+- [x] GitHub Repository 생성
+- [x] VS Code 연결
+- [ ] 백엔드 기술 스택 선정
+- [ ] 데이터 구조 설계
+- [ ] 백엔드 기능 구현
