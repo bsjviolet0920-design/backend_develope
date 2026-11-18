@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 .env
+firebase-key.json
+
+# 테스트 로그인 파일
+test_login.py
